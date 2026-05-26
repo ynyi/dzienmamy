@@ -1,0 +1,6 @@
+{
+  "name": "Dzień Mamy",
+  "description": "A beautiful Mother's Day greeting card with animations, photos, and wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
